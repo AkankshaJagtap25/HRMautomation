@@ -87,7 +87,7 @@ public class LoginTestCase extends BaseClass {
 
 		s.assertNotEquals(expResult, actResult);
 		s.assertAll();
-		
+	System.out.println("Just for git ");
 		logger.pass("Test case is pass");
 		
 	}
